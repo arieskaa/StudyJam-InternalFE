@@ -1,0 +1,77 @@
+/* penempatan css eksternal */
+/* body{
+    font-family: arial;
+}
+h1{
+    color: lightblue;
+}
+p{
+    color: grey;
+} */
+
+/* font styling */
+/* h1{
+    font-family: arial, verdana, sans-serif;
+    font-size: 30px;
+    font-variant:small-caps;
+    font-style:italic; */
+    /* texy styling */
+    /* color: rgb(132, 255, 0);
+    text-decoration: line-through;
+
+} */
+/* p{
+    font-size: 20px;
+    font-weight: bold;
+    line-height:50px; */
+    /* text styling */
+    /* text-align: left;
+    text-indent: 50px;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    word-spacing: 20px;;
+
+} */
+
+/* background */
+/* body {
+    background-color: lightblue;
+    background-image: url(assets/background2.jpg);
+    background-repeat: no-repeat; */
+    /* x : left/center/right */
+    /* y: top/bottom/center */
+    /* background-position: top right;
+} */
+
+/* selector */
+/* body{
+    font-family: arial;
+}
+h1, h2{
+    color: red;
+}
+
+ol li a{
+    color: green;
+}
+#p1{
+    color: red;
+}
+.p2{
+    color:green;
+} */
+
+/* pseudo class */
+.hello:hover{
+    color: orange;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.hello:active{
+    color : green;
+    font-style: italic;
+}
+.hello:visited{
+    color: red;
+}
